@@ -1,0 +1,8 @@
+Command:
+git branch -vv
+
+Output:
+  bug-fix-revert 3836bd6 [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-typo   36aae79 Fix typo in README
+* main           f3c9b13 [origin/main] Add pull request verification evidence
+
